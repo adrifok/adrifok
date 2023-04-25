@@ -35,6 +35,14 @@
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
+ <p 
+   <div> 
++20 years of experience in IT industries: software and hardware. DevOp. 
+I'm a Technical IT Traslator (English- Spanish-Italian). 
+Fullstack developer - JavaScript - Back End - Node Js - Express Js - PostgreSQL - Sequelize.
+Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, Dockers)
+   </div>
+  </p>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
     </p>
  </samp>
