@@ -33,7 +33,7 @@
   <summary>🧮 About me</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">a little more about Adriana</h2>
  <p align="center">
  <p 
    <div> 
