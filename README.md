@@ -88,20 +88,3 @@ Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, D
 </div>
   </details>
   
-<details>
-  <summary>🌏 global</summary>
-  <br/>
-  <details open>
-
-  <div>
-  <samp>
-  
-    </p>
-    </samp>
-  </div>
-</details> 
- 
- 
-
-
-                        
