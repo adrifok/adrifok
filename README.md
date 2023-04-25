@@ -58,8 +58,10 @@ Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, D
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Gooogle Cloud Plattform%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F63" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Cloud Run%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Kubernetes%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA956" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Dockers%20-%23F7DF1E.svg?&style=for-the-badge&color=F7GI23" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Express.js%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
@@ -69,6 +71,7 @@ Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, D
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
