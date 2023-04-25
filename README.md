@@ -39,7 +39,7 @@
    <div> 
 +20 years of experience in IT industries: software and hardware. DevOp. 
 I'm a Technical IT Traslator (English- Spanish-Italian). 
-Fullstack developer, Back End - JavaScript - Back End - Node Js - Express Js - PostgreSQL - Sequelize.
+Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - Express Js - PostgreSQL - Sequelize.
 Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, Dockers)
    </div>
   </p>
@@ -56,7 +56,7 @@ Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, D
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/PostgresSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Gooogle Cloud Plattform%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F63" />&nbsp;&nbsp;
