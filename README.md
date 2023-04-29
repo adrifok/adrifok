@@ -20,7 +20,7 @@
       <a href="https://www.linkedin.com/in/adriana-ferrari-dev/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:adrifok@gmail.com" target="blank"><img align="center"
+      <a href="mailto:dev@adriferrari.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
