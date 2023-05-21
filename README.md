@@ -37,9 +37,10 @@
  <p align="center">
  <p 
    <div> 
-+20 years of experience in IT industries: software and hardware. DevOp. 
+DevOp.  
+Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - Express Js - PostgreSQL - Sequelize.  
 I'm a Technical IT Traslator (English- Spanish-Italian). 
-Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - Express Js - PostgreSQL - Sequelize.
++20 years of experience in IT industries: software and hardware.
 Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, Dockers)
    </div>
   </p>
