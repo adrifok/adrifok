@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Adriana</h1>
-<h4 align="center"> DevOp . Fullstack Developer. Tech Translator . Eternal student: never enough. Problem solver. Digital nomade,  see my <a href="https://www.linkedin.com/in/adriana-ferrari-dev/" target="_blank">resume</a> for more</h4>
+<h4 align="center"> DevOp . Fullstack Developer. Tech Translator . Eternal student: never enough. Problem solver. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
 </div>
 
 
