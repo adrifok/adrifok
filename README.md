@@ -61,7 +61,7 @@ Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, SQL integration, Do
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/Gooogle Cloud Plattform%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F63" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Gooogle Cloud Platform%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F63" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Cloud Run%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Kubernetes%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA956" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Dockers%20-%23F7DF1E.svg?&style=for-the-badge&color=F7GI23" />&nbsp;&nbsp;
