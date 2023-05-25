@@ -41,7 +41,7 @@ DevOp.
 Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - Express Js - PostgreSQL - Sequelize.  
 I'm a Technical IT Traslator (English- Spanish-Italian). 
 +20 years of experience in IT industries: software and hardware.
-Inmerse in the world of GCP Plattform (Run Cloud, Kubernetes, SQL integration, Dockers)
+Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, SQL integration, Dockers)
    </div>
   </p>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
