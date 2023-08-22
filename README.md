@@ -37,7 +37,7 @@
  <p align="center">
  <p 
    <div> 
-DevOps. Obsessed with Pipelines (CI/CD), Deployments, MicroServicres and all those kind of stuff.
+DevOps. Obsessed with Pipelines (CI/CD), Deployments, MicroServices and all those kind of stuff.
 Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - Express Js - PostgreSQL - Sequelize.  
 I'm a also a Technical IT Traslator (English- Spanish-Italian). 
 +20 years of experience in IT industries: software and hardware.
