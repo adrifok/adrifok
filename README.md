@@ -67,13 +67,13 @@ Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, SQL integration, Do
    <img src="https://img.shields.io/badge/Express.js%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
     <br />
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Jenkins%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/React.js%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/GitOps%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/Webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Terraform%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Jira%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
