@@ -63,9 +63,7 @@ Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, Dockers, Terraform,
    <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/FirebaseAuth%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
-   <br />
    <img src="https://img.shields.io/badge/Kubernetes%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA956" />&nbsp;&nbsp;
-    <br />
    <img src="https://img.shields.io/badge/Jenkins%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
     <br />
