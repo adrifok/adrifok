@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Adriana</h1>
-<h4 align="center"> DevOp . Fullstack Developer. Tech Translator . Eternal student: never enough. Problem solver. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
+<h4 align="center"> DevOp . Back End Developer. Tech Translator . Eternal student: never enough. Problem solver. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
 </div>
 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -38,10 +38,10 @@
  <p 
    <div> 
 DevOps. Obsessed with Pipelines (CI/CD), Deployments, MicroServices and all those kind of stuff.
-Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - Express Js - PostgreSQL - Sequelize.  
+Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - AWS - GCP - Azure.  
 I'm a also a Technical IT Traslator (English- Spanish-Italian). 
 +20 years of experience in IT industries: software and hardware.
-Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, SQL integration, Dockers)
+Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, Dockers, Terraform, Jenkins, sonarQube)
    </div>
   </p>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
