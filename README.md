@@ -54,21 +54,20 @@ Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, Dockers, Terraform,
   <summary>:sunglasses:Tools & Technologies</summary>
    <div>
 <p>
+   <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Gooogle Cloud Platform%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F63" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Azure%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/On-Premise%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/FirebaseAuth%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/Gooogle Cloud Platform%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F63" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Kubernetes%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA956" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Azure%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
     <br />
-   <img src="https://img.shields.io/badge/On-Premise%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Jenkins%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Jenkins%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
     <br />
    <img src="https://img.shields.io/badge/Terraform%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Jira%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
