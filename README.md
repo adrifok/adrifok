@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Adriana</h1>
-<h4 align="center"> DevOp . Back End Developer. Tech Translator . Eternal student: never enough. Problem solver. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
+<h4 align="center"> DevOps . Back End Developer. Tech Translator . Eternal student: never enough. Problem solver. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
 </div>
 
 
