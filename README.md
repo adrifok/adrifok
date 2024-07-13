@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Adriana F.</h1>
-<h4 align="center"> DevOps Engineer. Back End Developer. Tech Translator . Eternal student: never enough. Drive change. Plans corrector. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
+<h4 align="center"> DevOps Engineer. Plattform Engineer. Back End Developer. Tech Translator . Eternal student: never enough. Drive change. Plans corrector. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
 </div>
 
 
@@ -37,11 +37,11 @@
  <p align="center">
  <p 
    <div> 
-DevOps. Obsessed with Pipelines (CI/CD), Deployments, MicroServices and all those kind of stuff.
-Fullstack Developer, &#x2764 Back End - JavaScript - Node Js - AWS - GCP - Azure.  
+DevOps. Platform Engineer. Obsessed with Pipelines (CI/CD), Deployments, MicroServices and all those kind of stuff.
+&#x2764 Back End - JavaScript - Node Js - Python - Go.  
 I'm a also a Technical IT Traslator (English- Spanish-Italian). 
-+20 years of experience in IT industries: software and hardware.
-Inmerse in the world of GCP Platform (Run Cloud, Kubernetes, Dockers, Terraform, Jenkins, sonarQube)
++10 years of experience in IT industries: software and hardware.
+Inmerse in the world of Platforms (AWS, GCP, Kubernetes, Docker, Terraform, Jenkins, sonarQube, Nexus, nGinx)
    </div>
   </p>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
