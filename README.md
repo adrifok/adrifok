@@ -59,9 +59,9 @@ Inmerse in the world of Platforms (AWS, GCP, Kubernetes, Docker, Terraform, Jenk
    <img src="https://img.shields.io/badge/Istio-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/On-Premise%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Nexus%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Prometheus%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Grafana%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Kubernetes%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA956" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Jenkins%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
@@ -73,7 +73,7 @@ Inmerse in the world of Platforms (AWS, GCP, Kubernetes, Docker, Terraform, Jenk
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0055" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitOps%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Maven%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/ArgoCD%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Pipeline(CI/CD)%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Shell Script%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
