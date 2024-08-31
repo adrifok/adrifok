@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Adriana F.</h1>
-<h4 align="center"> DevOps Engineer. Plattform Engineer. Back End Developer. Tech Translator . Eternal student: never enough. Drive change. Plans corrector. Digital nomade,  see my <a href="https://www.adriferrari.com/" target="_blank">resume</a> for more</h4>
+<h4 align="center"> DevOps Engineer. Plattform Engineer. Back End Developer. Tech Translator . Eternal student: never enough. Drive change. Plans corrector. Digital nomade,  see my <a href="https://www.linkedin.com/in/adriana-ferrari-dev/" target="_blank">resume</a> for more</h4>
 </div>
 
 
