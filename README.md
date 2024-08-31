@@ -37,7 +37,7 @@
  <p align="center">
  <p 
    <div> 
-DevOps. Platform Engineer. Obsessed with Pipelines (CI/CD), Deployments, MicroServices and all those kind of stuff.
+DevOps | Clouds | Platform Engineer. Obsessed with Pipelines (CI/CD), Deployments, MicroServices and all those kind of stuff.
 &#x2764 Back End - JavaScript - Node Js - Python - Go.  
 I'm a also a Technical IT Traslator (English- Spanish-Italian). 
 +10 years of experience in IT industries: software and hardware.
