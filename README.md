@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  Building and operating cloud infrastructure at scale — focused on reliability, CI/CD pipelines, IaC, and container platforms across AWS, GCP, and OCI.
+  Building and operating cloud infrastructure at scale — focused on reliability, AI, CI/CD pipelines, IaC, and container platforms across AWS, GCP, and OCI.
 </p>
 
 <br/>
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terragrunt-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
