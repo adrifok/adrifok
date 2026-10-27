@@ -1,5 +1,5 @@
 <h1 align="center">Adriana F.</h1>
-<p align="center">AI . SRE · DevOps · Platform Engineer</p>
+<p align="center">AI . SRE · DevOps · Infrastructure Engineer</p>
 
 <br/>
 
